@@ -1,4 +1,4 @@
-### ftpServer.c => FTP server file
+###### ftpServer.c => FTP server file
 ### ftpServer.h => contains libraries used in ftpServer.c
 ### ftpClient.c => FTP client file
 ### ftpClient.h => contains libraries used in ftpClient.c
